@@ -82,7 +82,7 @@ nav {
 /* banner  */
  #main-banner {
  	background-color: red;
- 	background: url('../img/ifoodd.jpg') no-repeat;
+ 	background: url('../img/imagemnova.jpg') no-repeat;
  	background-size: cover;
  	background-position: 0 55%;
  	position: relative;
@@ -131,4 +131,14 @@ nav {
  #search-form input[type=submit]:hover {
  	background-color: #2B79EB;
  	/*background-color: #191970;*/
+ }
+
+ #entrar {
+	 background-color: #EA1D2C;
+	 color: #FFF;
+	 border-radius: 6px;
+	 border-color: transparent;
+	 font-size: 18px;
+	 height: 34px;
+	 margin: 3px 0;
  }
